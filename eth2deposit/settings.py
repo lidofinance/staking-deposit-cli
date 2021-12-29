@@ -29,7 +29,7 @@ ALL_CHAINS: Dict[str, BaseChainSetting] = {
     MAINNET: MainnetSetting,
     PYRMONT: PyrmontSetting,
     PRATER: PraterSetting,
-    KINTSUGI: PraterSetting,
+    KINTSUGI: KintsugiSetting,
 }
 
 
