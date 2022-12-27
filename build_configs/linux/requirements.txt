@@ -4,9 +4,9 @@
 # Build tools for binary distribution
 PyInstaller==3.6 \
     --hash=sha256:3730fa80d088f8bb7084d32480eb87cbb4ddb64123363763cf8f2a1378c1c4b7
-setuptools==49.2.0 \
-    --hash=sha256:272c7f48f5cddc5af5901f4265274c421c7eede5c8bc454ac2903d3f8fc365e9 \
-    --hash=sha256:afe9e81fee0270d3f60d52608549cc8ec4c46dada8c95640c1a00160f577acf2
+setuptools==65.5.1 \
+    --hash=sha256:d0b9a8433464d5800cbe05094acf5c6d52a91bfac9b52bcfc4d41382be5d5d31 \
+    --hash=sha256:e197a19aa8ec9722928f2206f8de752def0e4c9fc6953527360d1c36d94ddb2f
 cffi==1.14.0 \
     --hash=sha256:001bf3242a1bb04d985d63e138230802c6c8d4db3668fb545fb5005ddf5bb5ff \
     --hash=sha256:00789914be39dffba161cfc5be31b55775de5ba2235fe49aa28c148236c4e06b \
